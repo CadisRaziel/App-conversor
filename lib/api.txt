@@ -1,0 +1,14 @@
+//Site da api
+https://docs.awesomeapi.com.br/api-de-moedas
+
+
+//Json convertendo de USD para BRL
+https://economia.awesomeapi.com.br/json/last/USD-BRL
+
+
+//xml das moedas que podem ser convertidas
+https://economia.awesomeapi.com.br/xml/available/uniq
+
+
+
+Teremos um JSON e um XML, precisamos consumir as duas apis...
